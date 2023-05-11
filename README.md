@@ -1,6 +1,14 @@
 # tf
 custom configuration for my tf2 client, not being hosted by steam cloud, therefore sharable and reproducable onto any computer
 
+# os
+* windows 10
+
+# hardware
+* cm per 360: 74.220779
+* mouse: ec2-c 3200 dpi, 0.175 in tf2 raw input on
+* first notch on windows mouse settings, enhanced mouse precision off
+
 # terminology
 * real tf folder: the tf folder located in your installation of steam
 * this tf folder: the tf folder that's hosted on github only containing config files and not extraneous game files
