@@ -21,7 +21,7 @@ custom configuration for my tf2 client, not being hosted by steam cloud, therefo
 
 ## after doing the above
 * you update files in your real tf folder over time by editing the configuration files and dragging in custom things
-* after that you copy over the files from your real tf folder into this tf folder updating anything here and git pushing
+* after that you copy over the demos, custom and cfg folders from your real tf folder into this tf folder updating anything here and git pushing
 * by doing this you keep your configuration ready for any new computer or setup you come across
 
 # TF2 resources
